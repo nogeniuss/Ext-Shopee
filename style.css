@@ -1,0 +1,11 @@
+.button-copiar{
+    background-color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #FFF;
+    padding: 10px;
+}
+
+.button-copiar :hover{
+    background-color: lightblue;
+    color: #000;
+}

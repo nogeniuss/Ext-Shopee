@@ -1,0 +1,21 @@
+-> Objetivo, copiar valores dos anuncios da Shopee
+
+- Class / Id dos valores
+
+
+Anuncio normal
+
+Dados que eu vou pegar
+
+- Impressões ->div class"">span>class:"text ellipsis"
+- Cliques
+- GMV
+- Investimento
+- Roas
+- Colocação
+- Orçamento
+
+
+Anuncio de Loja
+
+Anuncio de Produto
