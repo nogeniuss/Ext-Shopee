@@ -1,21 +1,34 @@
 -> Objetivo, copiar valores dos anuncios da Shopee
 
-- Class / Id dos valores
-
-
 Anuncio normal
 
 Dados que eu vou pegar
 
-- Impressões ->div class"">span>class:"text ellipsis"
-- Cliques
-- GMV
-- Investimento
-- Roas
-- Colocação
-- Orçamento
+Tela do anuncio patrocinado
+
+- Impressões -  text.ellipsis
+- Cliques -  text.ellipsis
+- GMV -  text.ellipsis
+- Investimento -  text.ellipsis
+- Roas -  text.ellipsis
+- Colocação - title no-cursor
+- Orçamento - ellipsis-content single
+- data - eds-selector__suffix
 
 
-Anuncio de Loja
+Tela do anuncio normal
+- imagem - div.product-image>img
+- Nome do anuncios - product-name-wrap
+- Estoque - stock-text
+- vendas - list-view-sales
+- preço - div.list-view-price>span
 
-Anuncio de Produto
+Button Relatorio
+
+- criar um array que guarda as informações:
+
+Impressões mes anterior, mes atual... 
+
+no relatorio ter
+
+Impressões, cliques, Roas, Investimento, GMV , data mes anterior , mes atual, 
